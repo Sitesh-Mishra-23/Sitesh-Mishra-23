@@ -1,56 +1,56 @@
 Hey, I'm Sitesh 👋
 B.Tech ECE @ BPIT, New Delhi  |  2023–2027
 Building ML systems and writing clean DSA solutions — one commit at a time.
-�
-�
-�
-Load image
-Load image
-Load image
+Show Image
+Show Image
+Show Image
+
 🔧 What I Work With
 Languages
-�
-�
-�
-Load image
-Load image
-Load image
+Show Image
+Show Image
+Show Image
 ML & Data
-�
-�
-�
-Load image
-Load image
-Load image
+Show Image
+Show Image
+Show Image
 Tools & Deployment
-�
-�
-�
-Load image
-Load image
-Load image
+Show Image
+Show Image
+Show Image
+
 🚀 Featured Project
 🌱 Crop Recommendation System
+
 Predicts the best crop to grow based on soil nutrients and climate conditions.
+
+
 📊 Dataset: 2,200 rows · 22 crop classes
 🤖 Models: Random Forest (~99%) + Logistic Regression (~96%)
 ⚙️ Stack: Python · Scikit-learn · Streamlit · Joblib
 🧪 End-to-end sklearn Pipeline with StandardScaler
 🖥️ Interactive UI — sliders for N, P, K, temperature, humidity, pH, rainfall
-�
-�
-Load image
-Load image
+
+Show Image
+Show Image
+
 📈 DSA Progress
+
 🧠 Solving DSA problems daily in C++
 📌 Focus: Arrays, Strings, Linked Lists, Trees, Recursion
 🔗 LeetCode Profile — 50+ problems solved
+
+
 🌱 Currently Learning
+
 Advanced ML concepts — model evaluation, feature engineering
 DSA patterns for placement preparation
 Deploying Python ML apps to the web (Streamlit Cloud, Hugging Face)
+
+
 💬 Ask Me About
 Sklearn pipelines · Streamlit UI · Crop prediction models · DSA in C++ · Python
+
 ⚡ Fun Fact
 I learn most of my tech skills during my daily commute.
 YouTube University hits different on a moving bus. 🚌
