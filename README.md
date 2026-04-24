@@ -55,7 +55,6 @@ Sklearn pipelines · Streamlit UI · Crop prediction models · DSA in C++ · Pyt
 I learn most of my tech skills during my daily commute.
 YouTube University hits different on a moving bus. 🚌
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_sitesh_mishra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sitesh-mishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siteshmishra23@gmail.com) 
 
