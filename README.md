@@ -1,23 +1,8 @@
 Hey, I'm Sitesh 👋
 B.Tech ECE @ BPIT, New Delhi  |  2023–2027
 Building ML systems and writing clean DSA solutions — one commit at a time.
-Show Image
-Show Image
-Show Image
 
-🔧 What I Work With
-Languages
-Show Image
-Show Image
-Show Image
-ML & Data
-Show Image
-Show Image
-Show Image
-Tools & Deployment
-Show Image
-Show Image
-Show Image
+
 
 🚀 Featured Project
 🌱 Crop Recommendation System
@@ -31,8 +16,6 @@ Predicts the best crop to grow based on soil nutrients and climate conditions.
 🧪 End-to-end sklearn Pipeline with StandardScaler
 🖥️ Interactive UI — sliders for N, P, K, temperature, humidity, pH, rainfall
 
-Show Image
-Show Image
 
 📈 DSA Progress
 
