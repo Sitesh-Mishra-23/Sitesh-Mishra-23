@@ -4,7 +4,7 @@ Building ML systems and writing clean DSA solutions — one commit at a time.
 
 
 
-🚀 Featured Project
+🚀 Featured Projec
 🌱 Crop Recommendation System
 
 Predicts the best crop to grow based on soil nutrients and climate conditions.
