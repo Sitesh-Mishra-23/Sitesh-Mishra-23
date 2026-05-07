@@ -1,5 +1,5 @@
 Hey, I'm Sitesh👋
-B.Tech ECE @ BPIT, New Delhi  |  2023–202
+B.Tech ECE @ BPIT, New Delhi  |  2023–2027
 Building ML systems and writing clean DSA solutions — one commit at a time.
 
 
