@@ -9,7 +9,7 @@
 
 <br><br>
 
-![](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/B.Tech-ECE%20-6D28D9?style=for-the-badge)
 ![](https://img.shields.io/badge/BPIT-Delhi-4F46E5?style=for-the-badge)
 ![](https://img.shields.io/badge/Graduation-2027-2563EB?style=for-the-badge)
 ![](https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge)
@@ -48,7 +48,7 @@
 
 # About Me
 
-I'm a final-year **B.Tech Computer Science student** with a strong interest in **Software Engineering, Artificial Intelligence, and Machine Learning**. My focus is on developing scalable, production-oriented applications that combine intelligent systems with clean software architecture.
+I'm a final-year **B.Tech ECE student** with a strong interest in **Software Engineering, Artificial Intelligence, and Machine Learning**. My focus is on developing scalable, production-oriented applications that combine intelligent systems with clean software architecture.
 
 I enjoy solving engineering problems through efficient algorithms, modern development practices, and data-driven decision making. My work spans across classical Machine Learning, Deep Learning, Retrieval-Augmented Generation (RAG), Computer Vision, and Generative AI.
 
